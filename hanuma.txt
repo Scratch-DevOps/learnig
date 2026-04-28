@@ -1,3 +1,5 @@
 Hello all,
 
 This is Sai, a DevOps Engineer.
+
+Heyllo. today echo $(date) , I am testing git pull & fetch commands.
